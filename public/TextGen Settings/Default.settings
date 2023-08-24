@@ -7,7 +7,7 @@
     "epsilon_cutoff": 0,
     "eta_cutoff": 0,
     "typical_p": 1,
-    "rep_pen": 1.5,
+    "rep_pen": 1.32,
     "rep_pen_range": 0,
     "no_repeat_ngram_size": 0,
     "penalty_alpha": 0,
